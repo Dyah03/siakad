@@ -2,3 +2,4 @@ modul siakad:
 1. modul mahasiswa
 2. modul dosen
 3. modul admin
+4. modul admin akademik
